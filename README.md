@@ -1,5 +1,5 @@
 # Mapas de la intensidad de Mercalli modificada
-Al correr en terminal `generar_mapas_sismo.py` sobre una base SQLite que contenga el reporte de un sismo que contenga los reportes de los usuarios de la aplicación **HINSIVUMEH - Alerta temprana de terremotos** se generan dos mapas.
+Al correr en terminal `generar_mapas_sismo.py` sobre una base SQLite que contenga la información de un sismo y los reportes de los usuarios de la aplicación **HINSIVUMEH - Alerta temprana de terremotos** se generan dos mapas.
 - Un mapa que contiene los reportes de los usuarios para la Intensidad de Mercalli Modificada (IMM).
 - Un mapa que categoriza las diferencias entre las intensidades reportadas y las intensidades teóricas, en base a la magnitud del sismo, distancia del usuario al epicentro y la IMM reportada.
 
